@@ -1,7 +1,7 @@
 
 # Scott Hayashida's Portfolio
 
-    My name is Scott Hayashida and I am a computer science major at CSUF. I plan  on graduating in 2028.
+    My name is Scott Hayashida and I am a computer science major at CSUF. I plan on graduating in 2028.
 
 ### Favorite CPSC 120L Labs
 
